@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Canada",
+        "code": "CAN",
+        "border-countries": ["USA", "DNK"],
+        "demographics": {
+            "population": 36991981,
+            "offical-languages": ["en", "fr"],
+            "area": 9984670
+        },
+        "flag": "https://en.wikipedia.org/wiki/Canada#/media/File:Flag_of_Canada_(Pantone).svg"
+    },
+    {
+        "name": "Denmark",
+        "code": "DNK",
+        "border-countries": ["CAN", "DEU"],
+        "demographics": {
+            "population": 5913538,
+            "offical-languages": ["da"],
+            "area": 42933
+        },
+        "flag": "https://en.wikipedia.org/wiki/Denmark#/media/File:Flag_of_Denmark.svg"
+    },
+    {
+        "name": "United States of America",
+        "code": "USA",
+        "border-countries": ["CAN", "MEX"],
+        "demographics": {
+            "population": 331449281,
+            "offical-languages": [],
+            "area": 9833520
+        },
+        "flag": "https://en.wikipedia.org/wiki/United_States#/media/File:Flag_of_the_United_States.svg"
+    },
+    {
+        "name": "Mexico",
+        "code": "MEX",
+        "border-countries": ["USA", "GTM"],
+        "demographics": {
+            "population": 126014024,
+            "offical-languages": [],
+            "area": 1972550
+        },
+        "flag": "https://en.wikipedia.org/wiki/Mexico#/media/File:Flag_of_Mexico.svg"
+    },
+    {
+        "name": "Germany",
+        "code": "DEU",
+        "border-countries": ["DNK", "NLD", "BEL", "LUX", "FRA", "CHE", "AUT", "CZE", "POL"],
+        "demographics": {
+            "population": 83695430,
+            "offical-languages": ["de"],
+            "area": 357022
+        },
+        "flag": "https://en.wikipedia.org/wiki/Germany#/media/File:Flag_of_Germany.svg"
+    },
+    {
+        "name": "Netherlands",
+        "code": "NLD",
+        "border-countries": ["DEU", "BEL"],
+        "demographics": {
+            "population": 16655799,
+            "offical-languages": ["nl"],
+            "area": 41865
+        },
+        "flag": "https://en.wikipedia.org/wiki/Netherlands#/media/File:Flag_of_the_Netherlands.svg"
+    },
+    {
+        "name": "Belgium",
+        "code": "BEL",
+        "border-countries": ["NLD", "FRA", "LUX", "DEU"],
+        "demographics": {
+            "population": 11584008,
+            "offical-languages": ["nl", "fr", "de"],
+            "area": 30689
+        },
+        "flag": "https://en.wikipedia.org/wiki/Belgium#/media/File:Flag_of_Belgium.svg"
+    },
+    {
+        "name": "Luxembourg",
+        "code": "LUX",
+        "border-countries": ["BEL", "FRA", "DEU"],
+        "demographics": {
+            "population": 645397,
+            "offical-languages": ["lb"],
+            "area": 2586
+        },
+        "flag": "https://en.wikipedia.org/wiki/Luxembourg#/media/File:Flag_of_Luxembourg.svg"
+    },
+    {
+        "name": "France",
+        "code": "FRA",
+        "border-countries": ["BEL", "ESP", "AND", "ITA", "CHE", "DEU", "LUX"],
+        "demographics": {
+            "population": 67897000,
+            "offical-languages": ["fr"],
+            "area": 643801
+        },
+        "flag": "https://en.wikipedia.org/wiki/France#/media/File:Flag_of_France.svg"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CHE",
+        "border-countries": ["FRA", "ITA", "AUT", "LIE"],
+        "demographics": {
+            "population": 8327126,
+            "offical-languages": ["de", "fr", "it"],
+            "area": 41285
+        },
+        "flag": "https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg"
+    }
+]
